@@ -19,3 +19,7 @@ class ControladorApp:
     def limpiar_ventana(self):
         for widget in self.root.winfo_children():
             widget.destroy()
+
+
+#llamar a invernadero
+
